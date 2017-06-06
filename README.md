@@ -229,4 +229,4 @@ class Stage extends View {
 
 ## Android Emulator
 
-![ThreadBasic_2.jpg]()
+![ThreadBasic_2.jpg](https://github.com/iNusz/ThreadBasic/blob/master/ThreadBasic_2.jpg)
